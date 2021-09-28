@@ -104,7 +104,7 @@ class App extends Component {
         id: user.id,
         name: user.name,
         email: user.email,
-        entries: user.entires,
+        entries: user.entries,
         joined: user.joined,
       },
     });
